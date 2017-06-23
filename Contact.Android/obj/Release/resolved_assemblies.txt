@@ -1,0 +1,15 @@
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\Contact.Android.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\Contact.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\Java.Interop.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\Mono.Android.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\System.Core.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\System.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\System.Xml.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\mscorlib.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\Xamarin.Android.Support.Annotations.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\Xamarin.Android.Support.Compat.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\Xamarin.Android.Support.Core.UI.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\Xamarin.Android.Support.v7.CardView.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\System.Runtime.Serialization.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact.Android\obj\Release\android\assets\Mono.Security.dll

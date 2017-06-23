@@ -1,0 +1,5 @@
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact\bin\Debug\Contact.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact\bin\Debug\Contact.pdb
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact\obj\Debug\Contact.csprojResolveAssemblyReference.cache
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact\obj\Debug\Contact.dll
+c:\users\dexter\documents\visual studio 2015\Projects\Contact\Contact\Contact\obj\Debug\Contact.pdb

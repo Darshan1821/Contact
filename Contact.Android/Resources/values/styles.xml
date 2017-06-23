@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style parent="android:Theme.Material.Light" name="Theme.DesignDemo"> </style>
+ </resources>
